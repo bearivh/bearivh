@@ -1,7 +1,7 @@
 
 🖥️ SeoulTech, CS junior
 
-</br>
+<br>
 
 <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=bearivh&utm_content=line">
   <img
@@ -11,15 +11,20 @@
   />
 </a>
 
-</br>
+<br>
 
-> [**moodtown**](https://github.com/bearivh/moodtown) : *Emotion-based virtual town visualization*
-> - RoBERTa fine-tuning for emotion classification
-> - GPT API-based content generation
-> - Full-stack implementation with Flask + React
+#### Things I've Built ▾▾
+[<img src="https://raw.githubusercontent.com/bearivh/moodtown/main/frontend/src/assets/icons/moodtown!.svg" height="40"/>](https://github.com/bearivh/moodtown)<br>
+: *Emotion-based virtual town visualization*
+- RoBERTa fine-tuning for emotion classification
+- GPT API-based content generation
+- Full-stack implementation with Flask + React
 
-> [**ArtiFix**](https://github.com/YOUR_GITHUB_USERNAME/ArtiFix) : *Cultural artifact damage detection pipeline*
->
-> - Semantic segmentation with EfficientNet-B2 + U-Net
-> - Grad-CAM based explainability
-> - 3D damage preview visualization
+<br>
+
+[<img src="https://raw.githubusercontent.com/bearivh/ArtiFix/main/frontend/public/Artifix.png" height="40"/>](https://github.com/bearivh/ArtiFix)<br>
+: *Cultural artifact damage detection pipeline*
+
+- Semantic segmentation with EfficientNet-B2 + U-Net
+- Grad-CAM based explainability
+- 3D damage preview visualization
