@@ -1,5 +1,11 @@
-<p align="center">
-  <a href="https://github.com/bearivh">
-    <img src="https://render.gitanimals.org/lines/bearivhE?pet-id=1" width="1000" height="120"/>
+</br>
+
+<div align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=beairvh&utm_content=farm">
+    <img
+      src="https://render.gitanimals.org/farms/bearivh"
+      width="600"
+      height="300"
+    />
   </a>
-</p>
+</div>
