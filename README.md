@@ -14,7 +14,7 @@
 <br>
 
 #### Things I've Built ▾▾
-[<img src="https://raw.githubusercontent.com/bearivh/moodtown/main/frontend/src/assets/icons/moodtown!.svg" height="40"/>](https://github.com/bearivh/moodtown)<br>
+[<img src="https://raw.githubusercontent.com/bearivh/moodtown/main/frontend/src/assets/icons/moodtown!.svg" height="50"/>](https://github.com/bearivh/moodtown)<br>
 : *Emotion-based virtual town visualization*
 - RoBERTa fine-tuning for emotion classification
 - GPT API-based content generation
@@ -22,7 +22,7 @@
 
 <br>
 
-[<img src="https://raw.githubusercontent.com/bearivh/ArtiFix/main/frontend/public/Artifix.png" height="40"/>](https://github.com/bearivh/ArtiFix)<br>
+[<img src="https://raw.githubusercontent.com/bearivh/ArtiFix/main/frontend/public/Artifix.png" height="60"/>](https://github.com/bearivh/ArtiFix)<br>
 : *Cultural artifact damage detection pipeline*
 
 - Semantic segmentation with EfficientNet-B2 + U-Net
