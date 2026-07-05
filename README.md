@@ -1,13 +1,16 @@
 
 🖥️ SeoulTech, CS junior
+
 <br>
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=bearivh&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/bearivh"
-  width="600"
-  height="300"
-/>
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=bearivh&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/bearivh"
+    width="600"
+    height="120"
+  />
 </a>
+  
 
 > [**moodtown**](https://github.com/bearivh/moodtown) : *Emotion-based virtual town visualization*
 > - RoBERTa fine-tuning for emotion classification
